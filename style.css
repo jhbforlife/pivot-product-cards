@@ -14,7 +14,6 @@ body {
 }
 
 section {
-    /* background-color: white; */
     padding-top: 25vh;
     padding-left: 10vw;
     padding-right: 10vw;
@@ -26,7 +25,7 @@ article {
     background-color: whitesmoke;
     display: inline-block;
     width: 20vw;
-    margin: 10px;
+    margin: 2vh 2vw;
     border-radius: 15px;
 }
 
@@ -48,10 +47,16 @@ img {
     padding: 5px;
 }
 
+div {
+    font-size: 1.25vw;
+    padding: 5px 10px;
+}
+
 button {
     width: 16vw;
     height: 2vw;
     font-size: 1vw;
+    margin-top: 10px;
     margin-bottom: 10px;
     color: white;
     background-color: rgb(10, 89, 219);
@@ -59,10 +64,16 @@ button {
     border-radius: 15px;
 }
 
+footer {
+    padding-bottom: 10px;
+    text-align: center;
+}
+
 @media screen and (max-width: 800px) {
     article {
         width: 80vw;
         display: block;
+        margin: 5vh 2vw;
     }
 
     h2 {
@@ -76,6 +87,10 @@ button {
     img {
         max-width: 40vw;
         max-height: 40vh;
+    }
+    
+    div {
+        font-size: 3vw
     }
 
     button {
