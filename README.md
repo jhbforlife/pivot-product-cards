@@ -1,5 +1,5 @@
 # pivot product cards
-hello! this is my first project for the pre-work section of the pivot software development program, and my first HTML/CSS project at that!
+hello! this is my first project for the pre-work section of the pivot software development program, and my first HTML/CSS project at that! you can view the deployed project here: <a href="https://jhbforlife-pivot-product-cards.netlify.app">Click here</a>
 
 with that said, I am overall happy with how it has turned out, though a couple of things are still bothering me that I may try to fix in the future:
 - the MacBook image doesn't appear as large as the others
